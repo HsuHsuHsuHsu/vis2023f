@@ -1,0 +1,14 @@
+{
+  "name": "31554f18fa7562fe",
+  "main": "31554f18fa7562fe@75.js",
+  "version": "75.0.0",
+  "homepage": "https://observablehq.com/d/31554f18fa7562fe",
+  "author": {
+    "name": "許鈞豪's Workspace",
+    "url": "https://observablehq.com/@xu-jun-hao-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
